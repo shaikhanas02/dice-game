@@ -15,6 +15,8 @@ let chance2 = 5;
     player1Score +=a;
 document.getElementById("player1").innerHTML = player1Score ;
 chance1++;
+
+
  }
 
    
